@@ -5,7 +5,7 @@
 - 🔭: Teachers student in Denmark working on hobby projects.
 - 🌱: CS50 for a larger picture of the field.
 - ⚡: Linux enthusiast.
-- ⚡: Dungeon Master 5th edition.
+- 🎲: Dungeon Master 5th edition.
 
 
 ---
