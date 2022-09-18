@@ -1,12 +1,6 @@
 
 ![0 JkWEo400nDymhtnl](https://user-images.githubusercontent.com/66069735/190920066-06677fd3-7406-4335-8d7c-08783d0b3998.png)
 
----
-### Hi there 👋
----
-
-
-
 ### :man_technologist: About Me :
 - 🔭: Teachers student in Denmark working on hobby projects.
 - 🌱: CS50 for a larger picture of the field.
