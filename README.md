@@ -2,8 +2,9 @@
 ---
 
 ### :man_technologist: About Me :
-- :Telescope: Teachers student
-- :Seedling: Hobby projects and working on CS50
+- 🔭 Teachers student
+- 🌱 CS50
+- 
 
 
 ---
