@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
----<iframe src="https://giphy.com/embed/FcFs1TW9CMVyw" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tech-netflix-popsugar-FcFs1TW9CMVyw">via GIPHY</a></p>
+---
 
 ### :man_technologist: About Me :
 - :Telescope: Teachers student
