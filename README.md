@@ -1,5 +1,4 @@
 
-![0 JkWEo400nDymhtnl](https://user-images.githubusercontent.com/66069735/190920066-06677fd3-7406-4335-8d7c-08783d0b3998.png)
 <h1 align="center">Hi 👋, I'm SinfulCritic</h1>
 <h3 align="center">A tech enthusiast from Denmark.</h3>
 
@@ -32,6 +31,7 @@
 <!--
 **SinfulCritic/sinfulcritic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![0 JkWEo400nDymhtnl](https://user-images.githubusercontent.com/66069735/190920066-06677fd3-7406-4335-8d7c-08783d0b3998.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
