@@ -1,11 +1,14 @@
 
 ![0 JkWEo400nDymhtnl](https://user-images.githubusercontent.com/66069735/190920066-06677fd3-7406-4335-8d7c-08783d0b3998.png)
+<h1 align="center">Hi 👋, I'm SinfulCritic</h1>
+<h3 align="center">A tech enthusiast from Denmark.</h3>
+
 
 ### :man_technologist: About Me :
-- 🔭: Teachers student in Denmark working on hobby projects.
-- 🌱: CS50 for a larger picture of the field.
-- ⚡: Linux enthusiast.
-- 🎲: Dungeon Master 5th edition.
+- 🔭: **A larger picture of the field.**
+- 🌱: **CS50.**
+- ⚡: **Linux enthusiast.**
+- 🎲: **Dungeon Master 5th edition.**
 
 
 ---
