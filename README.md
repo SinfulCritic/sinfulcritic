@@ -24,6 +24,10 @@
   
 </div>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinfulcritic&show_icons=true&locale=en" alt="sinfulcritic" /></p>
+
+
+
 
 <!--
 **SinfulCritic/sinfulcritic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
