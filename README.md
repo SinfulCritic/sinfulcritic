@@ -20,6 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://forum.proxmox.com/proxmox-favicon.png"  title="proxmox" alt="proxmox" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src=" https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg"  title="vim" alt="vim" width="40" height="40"/>&nbsp;  
   
 </div>
 
