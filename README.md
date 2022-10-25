@@ -5,7 +5,7 @@
 
 ### :man_technologist: About Me :
 - 🔭: **A larger picture of the field.**
-- 🌱: **CS50.**
+- 🌱: **FLiPP stack**
 - ⚡: **Linux enthusiast.**
 - 🎲: **Dungeon Master 5th edition.**
 
