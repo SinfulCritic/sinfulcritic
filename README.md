@@ -5,7 +5,7 @@
 
 ### :man_technologist: About Me :
 - 🔭: **A larger picture of the field.**
-- 🌱: **Fullstack app with python and flutter**
+- 🌱: **Finding a stack**
 - ⚡: **Linux enthusiast.**
 - 🎲: **Dungeon Master 5th edition.**
 
