@@ -4,7 +4,7 @@
 
 
 ### :man_technologist: About Me :
-- 🔭: **A larger picture of the field.**
+- 🔭: **The Odin Project.**
 - 🌱: **Finding a stack**
 - ⚡: **Linux enthusiast.**
 - 🎲: **Dungeon Master 5th edition.**
